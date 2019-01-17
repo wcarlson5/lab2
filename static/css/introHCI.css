@@ -11,11 +11,8 @@
 
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
-.project {
-     margin-left: 20px;
-     background-color: #deebf7;
-     padding: 20px;
-     width: 525px
+body {
+
 }
 
 .jumbotron {
